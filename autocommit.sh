@@ -5,10 +5,10 @@
 ### the listed folders, just keep that line commented out.        ###
 #####################################################################
 ### Path to your config folder you want to backup
-config_folder=~/printer_data
+config_folder=~/printer_data/config
 
 ### Path to your Klipper folder, by default that is '~/klipper'
-klipperscreen_folder=/home/pi/KlipperScreen
+#klipperscreen_folder=/home/pi/KlipperScreen
 
 ### Path to your Moonraker folder, by default that is '~/moonraker'
 #moonraker_folder=~/moonraker
@@ -21,8 +21,6 @@ klipperscreen_folder=/home/pi/KlipperScreen
 
 #####################################################################
 #####################################################################
-
-
 #####################################################################
 ################ !!! DO NOT EDIT BELOW THIS LINE !!! ################
 #####################################################################
